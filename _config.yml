@@ -13,7 +13,7 @@ title: |
   Research Student @ SmartLab, COMP, POLYU    
       
 email: yubo.zhang@connect.polyu.hk
-website: xx.blogs (My Blog)
+website: test.blogs (My Blog)
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -52,36 +52,33 @@ github_username:  Yb-Z
 # about_title: About Me
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, I'm Zhang Yubo and I'm an undergraduate student at (The Department of Computing(COMP))[https://www.comp.polyu.edu.hk/], (The Hong Kong Polytechnic University(PolyU))[https://www.polyu.edu.hk/]. 
+  
+  I am also a research student under supervision of (Dr. Li Jing)[http://www4.comp.polyu.edu.hk/~jing1li/] at the (PolyU SMART Lab)[https://polyusmart.net/].
+  
+  My interest focuses on  <mark>NLP</mark>, <mark>Recommendation System</mark>, and <mark>Fintech</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Education # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: (The Department of Computing)[https://www.comp.polyu.edu.hk/], (The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/]
+          caption: 2019 - Present
+          sub_title: | 
+            BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
+            
+            MINOR IN APPLIED MATHEMATICS
+          quote: >
+          
+          description: | # this will include new lines to allow paragraphs
 
-  - title: Experience # Title for the section
+  - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: PolyU SMART Lab 
+        link: 
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
@@ -90,19 +87,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  
 
   - title: A Little More About Me
     layout: text
