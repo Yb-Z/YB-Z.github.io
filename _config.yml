@@ -60,18 +60,18 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: (The Department of Computing)[https://www.comp.polyu.edu.hk/], (The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/]
-          caption: 2019 - Present
-          sub_title: | 
-            BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
-            
-            MINOR IN APPLIED MATHEMATICS
-          quote: >
-          
-          description: | # this will include new lines to allow paragraphs
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: (The Department of Computing)[https://www.comp.polyu.edu.hk/], (The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/]
+        caption: 2019 - Present
+        sub_title: | 
+          BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
+
+          MINOR IN APPLIED MATHEMATICS
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
 
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
