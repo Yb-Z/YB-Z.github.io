@@ -67,9 +67,7 @@ content:
         caption: 2019 - Present
         link: https://www.polyu.edu.hk/
         link_text: PolyU
-        quote: 
-          > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
-          > MINOR IN APPLIED MATHEMATICS
+        quote: >
         description: | # this will include new lines to allow paragraphs
           > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
           
