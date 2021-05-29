@@ -62,13 +62,12 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: The Hong Kong Polytechnic University
         caption: 2019 - Present
-        sub_title: | 
-          BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
-
-          MINOR IN APPLIED MATHEMATICS
+        sub_title: BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
+        sub_title: MINOR IN APPLIED MATHEMATICS
+          
         quote: >
 
         description: # this will include new lines to allow paragraphs
