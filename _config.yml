@@ -61,10 +61,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Hong Kong Polytechnic University
+        title: (The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/]
         caption: 2019 - Present
-        link: https://www.polyu.edu.hk/
-        link_text: PolyU
+        link: 
+        link_text: 
         quote: >
         description: | # this will include new lines to allow paragraphs
           > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
