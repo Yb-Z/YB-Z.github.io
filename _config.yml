@@ -50,7 +50,7 @@ github_username:  Yb-Z
 # about_title: About Me
 about_profile_image: images/head.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">The Department of Computing</a> (COMP), 
+  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a> (COMP), 
   <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> (PolyU)
   
   I am also a research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a> at the <a href="https://polyusmart.net/">PolyU SMART Lab</a>.
