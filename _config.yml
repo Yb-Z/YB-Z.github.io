@@ -50,9 +50,9 @@ github_username:  Yb-Z
 # about_title: About Me
 about_profile_image: images/photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at (The Department of Computing) [https://www.comp.polyu.edu.hk/], (The Hong Kong Polytechnic University) [https://www.polyu.edu.hk/] (PolyU). 
+  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at !(The Department of Computing)[https://www.comp.polyu.edu.hk/], !(The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/] (PolyU). 
   
-  I am also a research student under supervision of (Dr. Li Jing) [http://www4.comp.polyu.edu.hk/~jing1li/] at the (PolyU SMART Lab) [https://polyusmart.net/].
+  I am also a research student under supervision of !(Dr. Li Jing)[http://www4.comp.polyu.edu.hk/~jing1li/] at the !(PolyU SMART Lab)[https://polyusmart.net/].
   
   My interest focuses on  <mark>NLP</mark>, <mark>Recommendation System</mark>, and <mark>Fintech</mark>.
 
