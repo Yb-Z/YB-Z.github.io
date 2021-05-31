@@ -73,17 +73,17 @@ content:
          
           > MINOR IN APPLIED MATHEMATICS
     content:
-    - layout: left
-      title: Seoul National University
-      caption: Start in spring 2022
-      link: 
-      link_text: 
-      quote: >
-      description: | # this will include new lines to allow paragraphs
-        > Exchange student 
+      - layout: left
+        title: Seoul National University
+        caption: Start in spring 2022
+        link: 
+        link_text: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          > Exchange student 
         
         
-  - title: Experience # Title for the section
+  - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
