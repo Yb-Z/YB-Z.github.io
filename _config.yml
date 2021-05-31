@@ -82,7 +82,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           > Exchange student 
         
-        
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -99,16 +98,16 @@ content:
           - Data mining, Data analysis
           - Pre-train bert model
           - Recommendation System (Now)
-     content:
+    content:
       - layout: left
-        title: The Chinese University of Hong Kong
-        link: https://www.cuhk.edu.hk/chinese/index.html
-        sub_title: Honorary Junior Research Assistant 
-        caption: Summer 2021
-        quote: >
-          Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>
-        description: | # this will include new lines to allow paragraphs
-          
+      title: The Chinese University of Hong Kong
+      link: https://www.cuhk.edu.hk/chinese/index.html
+      sub_title: Honorary Junior Research Assistant 
+      caption: Summer 2021
+      quote: >
+      Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>
+      description: | # this will include new lines to allow paragraphs
+          TODO
 
   - title: A Little More About Me
     layout: text
