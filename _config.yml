@@ -48,9 +48,11 @@ github_username:  Yb-Z
 
 # About Section
 # about_title: About Me
-about_profile_image: images/photo.jpg
+about_profile_image: images/head.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at !(The Department of Computing)[https://www.comp.polyu.edu.hk/], !(The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/] (PolyU). 
+  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">The Department of Computing</a>
+  
+  !(The Department of Computing)[https://www.comp.polyu.edu.hk/], !(The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/] (PolyU). 
   
   I am also a research student under supervision of !(Dr. Li Jing)[http://www4.comp.polyu.edu.hk/~jing1li/] at the !(PolyU SMART Lab)[https://polyusmart.net/].
   
@@ -60,15 +62,15 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: (The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/]
+      - layout: center
+        title: The Hong Kong Polytechnic University
         caption: 2019 - Present
         link: 
         link_text: 
         quote: >
         description: | # this will include new lines to allow paragraphs
           > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
-          
+         
           > MINOR IN APPLIED MATHEMATICS
           
   - title: Education # Title for the section
