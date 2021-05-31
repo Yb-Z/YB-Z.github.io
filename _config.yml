@@ -72,8 +72,18 @@ content:
           > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
          
           > MINOR IN APPLIED MATHEMATICS
-  
-  - title: Research Experience # Title for the section
+    content:
+    - layout: left
+      title: Seoul National University
+      caption: Start in spring 2022
+      link: 
+      link_text: 
+      quote: >
+      description: | # this will include new lines to allow paragraphs
+        > Exchange student 
+        
+        
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
