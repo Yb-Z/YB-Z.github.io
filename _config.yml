@@ -50,11 +50,10 @@ github_username:  Yb-Z
 # about_title: About Me
 about_profile_image: images/head.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">The Department of Computing</a>
+  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">The Department of Computing</a> (COMP), 
+  <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> (PolyU)
   
-  !(The Department of Computing)[https://www.comp.polyu.edu.hk/], !(The Hong Kong Polytechnic University)[https://www.polyu.edu.hk/] (PolyU). 
-  
-  I am also a research student under supervision of !(Dr. Li Jing)[http://www4.comp.polyu.edu.hk/~jing1li/] at the !(PolyU SMART Lab)[https://polyusmart.net/].
+  I am also a research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a> at the <a href="https://polyusmart.net/">PolyU SMART Lab</a>.
   
   My interest focuses on  <mark>NLP</mark>, <mark>Recommendation System</mark>, and <mark>Fintech</mark>.
 
@@ -62,8 +61,9 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: left
         title: The Hong Kong Polytechnic University
+        link: https://www.polyu.edu.hk/
         caption: 2019 - Present
         link: 
         link_text: 
@@ -72,58 +72,47 @@ content:
           > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
          
           > MINOR IN APPLIED MATHEMATICS
-          
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
     content:
-      - layout: top
-        title: The Hong Kong Polytechnic University
-        caption: 2019 - Present
-        sub_title: BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
-        sub_title: MINOR IN APPLIED MATHEMATICS
-          
+      - layout: left
+        title: Seoul National University
+        caption: Start in spring 2022
+        link: 
+        link_text: 
         quote: >
-
-        description: # this will include new lines to allow paragraphs
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          > Exchange student 
+  
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: PolyU SMART Lab 
-        link: 
-        # link_text: boringcompany.com
-        sub_title: TODO #Senior Network System Administrator
-        caption: TODO #November 2017 - Present
+        link: https://polyusmart.net/
+        sub_title: Undergraduate Research Student
+        caption: Summer 2020 - Present
         quote: >
-          TODO #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>
         description: | # this will include new lines to allow paragraphs
-          TODO #Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  
+          I have done:
+          - Python crawler on weibo/twitter
+          - Data mining, Data analysis
+          - Pre-train bert model
+          - Recommendation System (Now)
+     content:
+      - layout: left
+        title: The Chinese University of Hong Kong
+        link: https://www.cuhk.edu.hk/chinese/index.html
+        sub_title: Honorary Junior Research Assistant 
+        caption: Summer 2021
+        quote: >
+          Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>
+        description: | # this will include new lines to allow paragraphs
+          
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       TODO
-#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-#      - Rock climbing
-#      - Gaming
-#      - Knitting
-#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-#      Look at this cool image  
-#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
