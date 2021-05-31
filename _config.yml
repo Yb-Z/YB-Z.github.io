@@ -70,9 +70,8 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
           > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
-         
           > MINOR IN APPLIED MATHEMATICS
-    content:
+          
       - layout: left
         title: Seoul National University
         caption: Start in spring 2022
@@ -98,7 +97,7 @@ content:
           - Data mining, Data analysis
           - Pre-train bert model
           - Recommendation System (Now)
-    content:
+          
       - layout: left
         title: The Chinese University of Hong Kong
         link: https://www.cuhk.edu.hk/chinese/index.html
