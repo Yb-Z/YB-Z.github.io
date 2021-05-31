@@ -69,9 +69,9 @@ content:
         link_text: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-          > BSc (HONS) FINANCIAL TECHNOLOGY & ARTIFICIAL INTELLIGENCE
+          > BSc (HONS) Financial Technology & Artificial Intelligence
           
-          > MINOR IN APPLIED MATHEMATICS
+          > Minor In Applied Mathematics
           
       - layout: left
         title: Seoul National University
@@ -80,7 +80,7 @@ content:
         link_text: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-          > Exchange student 
+          > Exchange Student 
         
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -103,14 +103,25 @@ content:
           
       - layout: left
         title: The Chinese University of Hong Kong
-        link: https://www.cuhk.edu.hk/chinese/index.html
+        link: https://www.cuhk.edu.hk/chinese/
         sub_title: Honorary Junior Research Assistant 
         caption: Summer 2021
         quote: >
         
         description: | # this will include new lines to allow paragraphs
           **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>**
-
+          
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Submitted / In preparation:**
+      - Yuji Zhang, ***Yubo Zhang***, Chunpu Xu, Jing Li, Ziyan Jiang and Baolin Peng, \#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention
+  
+  - title: Society Experience
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - June 2020-June 2021: Academic Secretary, Chinese Mainland Students' Association, PolyU
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
