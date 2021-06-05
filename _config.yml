@@ -114,13 +114,11 @@ content:
           
       - layout: left
         title: Undergraduate Research and Innovation Scheme (URIS), PolyU
-        sub_title: https://www.polyu.edu.hk/ous/URIS/
-        link: Be admitted College of Undergraduate Researchers and Innovators (CURI).  
-        sub_title: Honorary Junior Research Assistant 
+        link: https://www.polyu.edu.hk/ous/URIS/
         caption: 1/9/2021 to 1/1/2023
         quote: >
-        
         description: | # this will include new lines to allow paragraphs
+        
           **My project title: Doctor recommendation in online medical forums**
           
           **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
@@ -139,7 +137,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      TODO
+      :heart: My Girlfriend :heart: , Pan Yalu homepage: https://yalupan.github.io/
+      
+      :heart_eyes: We will organize and update more blogs about our interests as soon as possible~
+      
+      
 
 # Footer
 footer_show_references: true
