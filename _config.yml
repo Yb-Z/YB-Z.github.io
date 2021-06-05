@@ -137,6 +137,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
+      <p>I will display &#129409;</p>
+      
       :heart: My Girlfriend :heart: , Pan Yalu homepage: https://yalupan.github.io/
       
       :heart_eyes: We will organize and update more blogs about our interests as soon as possible~
