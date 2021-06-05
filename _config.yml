@@ -132,6 +132,8 @@ content:
   - title: Society Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - “INSPIRE” Mentorship Programme:
+        Mentor: Mr Yang Zhongxun, Founder & Chief Executive Officer of <a href="http://www.coos.ai/">COOS (超算科技開發有限公司)</a>.  
       - June 2020-June 2021: Academic Secretary, Chinese Mainland Students' Association, PolyU
   
   - title: A Little More About Me
