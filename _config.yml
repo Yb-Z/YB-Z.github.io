@@ -112,6 +112,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>**
           
+      - layout: left
+        title: Undergraduate Research and Innovation Scheme (URIS), PolyU
+        sub_title: https://www.polyu.edu.hk/ous/URIS/
+        link: Be admitted College of Undergraduate Researchers and Innovators (CURI).  
+        sub_title: Honorary Junior Research Assistant 
+        caption: 1/9/2021 to 1/1/2023
+        quote: >
+        
+        description: | # this will include new lines to allow paragraphs
+        What is URIS? (from PolyU Website)
+        URIS is a prestigious programme aimed to strengthen academic curiosity and enquiry-based learning among undergraduate students.  It is our University's objective to nurture the next generation of researchers and innovators.  Under URIS, undergraduate students will be given the opportunities to undertake small-scale research projects under the guidance and supervision of academic staff who are strong in research. Students enrolled on URIS will be automatically admitted to the virtual College of Undergraduate Researchers and Innovators (CURI) and they will have priority admission to the new Residential College with an enhanced guidance system to help promote holistic student development.
+          **My project title: Doctor recommendation in online medical forums**
+          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
+          
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
