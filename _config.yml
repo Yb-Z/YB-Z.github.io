@@ -118,8 +118,9 @@ content:
         caption: 1/9/2021 to 1/1/2023
         quote: >
         description: | # this will include new lines to allow paragraphs
-        
-          **My project title: Doctor recommendation in online medical forums**
+          ***Individual Project with funding HK$30,000***
+          
+          **Title: Doctor recommendation in online medical forums**
           
           **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
           
