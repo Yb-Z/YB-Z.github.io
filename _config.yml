@@ -99,7 +99,7 @@ content:
           Selected research tasks:
           - Python crawler on weibo/twitter
           - Data mining, Data analysis
-          - Pre-train bert model
+          - Language Model Pre-train/Continue-train
           - Recommendation System (Now)
           
       - layout: left
