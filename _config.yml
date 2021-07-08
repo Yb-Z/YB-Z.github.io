@@ -65,7 +65,7 @@ content:
       - layout: left
         title: The Hong Kong Polytechnic University
         link: https://www.polyu.edu.hk/
-        caption: 2019 - Present
+        caption: 2019 - 2023
         link: 
         link_text: 
         quote: >
@@ -76,12 +76,12 @@ content:
           
       - layout: left
         title: Seoul National University
-        caption: Start in spring 2022
+        caption: Nominated as an exchange student for Spring 2021/22
         link: 
         link_text: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-          > Exchange Student 
+       
         
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,7 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
           
-          I have done:
+          Selected research tasks:
           - Python crawler on weibo/twitter
           - Data mining, Data analysis
           - Pre-train bert model
@@ -104,7 +104,7 @@ content:
           
       - layout: left
         title: The Chinese University of Hong Kong
-        link: https://www.cuhk.edu.hk/
+        link: https://www.cintec.cuhk.edu.hk/seminars/
         sub_title: Honorary Junior Research Assistant 
         caption: Summer 2021
         quote: >
@@ -129,7 +129,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       **Submitted / In preparation:**
       - Yuji Zhang, ***Yubo Zhang***, Chunpu Xu, Jing Li, Ziyan Jiang and Baolin Peng, \#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention
-  
+        （EMNLP2021）
+        
   - title: Society Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -139,10 +140,10 @@ content:
         
       - June 2020-June 2021: Academic Secretary, Chinese Mainland Students' Association, PolyU
   
-  - title: A Little More About Me
+  - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <a href="https://yalupan.github.io/">&#128147; My Girlfriend, Pan Yalu &#128147;</a>
+      <a href="#">&#128147; My Girlfriend, Pan Yalu &#128147;</a>
       
       <p>We will organize and update more blogs about our interests as soon as possible~ &#128525;</p>      
       
