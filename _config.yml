@@ -80,17 +80,17 @@ content:
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: left
-        title: PolyU \- Undergraduate Research and Innovation Scheme (URIS)
-        link: https://www.polyu.edu.hk/ous/URIS/
-        caption: 1/9/2021 to 1/1/2023
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          ***Individual Project with funding HK$30,000 and scholarship HK$10,000***
-          
-          **Title: Doctor recommendation in online medical forums**
-          
-          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
+       - layout: left
+          title: PolyU - Undergraduate Research and Innovation Scheme (URIS)
+          link: https://www.polyu.edu.hk/ous/URIS/
+          caption: 1/9/2021 to 1/1/2023
+          quote: >
+          description: | # this will include new lines to allow paragraphs
+            ***Individual Project with funding HK$30,000 and scholarship HK$10,000***
+
+            **Title: Doctor recommendation in online medical forums**
+
+            **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
       
       - layout: left
         title: The Chinese University of Hong Kong
