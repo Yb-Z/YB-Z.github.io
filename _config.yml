@@ -81,7 +81,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
      - layout: left
-        title: PolyU - Undergraduate Research and Innovation Scheme (URIS)
+        title: PolyU \- Undergraduate Research and Innovation Scheme (URIS)
         link: https://www.polyu.edu.hk/ous/URIS/
         caption: 1/9/2021 to 1/1/2023
         quote: >
