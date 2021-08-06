@@ -52,23 +52,20 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a> (COMP), 
   <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> (PolyU)
   
-  I am also a research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a> at the <a href="https://polyusmart.net/">PolyU SMART Lab</a>.
+  I am also a undergraduate research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a> at the <a href="https://polyusmart.net/">PolyU SMART Lab</a>.
   
-  My interest focuses on  <mark>NLP</mark>, <mark>Recommendation System</mark>, and <mark>Fintech</mark>.
+  My current research interest are mainly about <mark>NLP</mark>, <mark>Recommendation System</mark>, and <mark>Fintech</mark>.
   
-  This is the website for my blog: <a href="https://blogs.yubo.space">Zhang Yubo's blogs (Being repaired)</a>
+  This is the website for my blog: <a href="https://blogs.yubo.space">Zhang Yubo's blogs</a> (Still repairing...)
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Hong Kong Polytechnic University
+        title: The Hong Kong Polytechnic University (PolyU)
         link: https://www.polyu.edu.hk/
         caption: 2019 - 2023
-        link: 
-        link_text: 
-        quote: >
         description: | # this will include new lines to allow paragraphs
           > BSc (HONS) Financial Technology & Artificial Intelligence
           
@@ -76,16 +73,38 @@ content:
           
       - layout: left
         title: Seoul National University
-        caption: Nominated as an exchange student for Spring 2021/22
-        link: 
-        link_text: 
-        quote: >
+        caption: Nominated for 2022 Sem2-Exchange to Seoul National University
         description: | # this will include new lines to allow paragraphs
        
         
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        title: PolyU - Undergraduate Research and Innovation Scheme (URIS)
+        link: https://www.polyu.edu.hk/ous/URIS/
+        caption: 1/9/2021 to 1/1/2023
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          ***Individual Project with funding HK$30,000 and scholarship HK$10,000***
+          
+          **Title: Doctor recommendation in online medical forums**
+          
+          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
+      
+      - layout: left
+        title: The Chinese University of Hong Kong
+        link: https://www.cintec.cuhk.edu.hk/seminars/
+        sub_title: |
+          Honorary Junior Research Assistant 
+          
+          at <a href="https://www.cintec.cuhk.edu.hk/">Cintec</a> and <a href="https://www.se.cuhk.edu.hk/">Dept. of SEEM</a> 
+        caption: Summer 2021
+        quote: >
+        
+        description: | # this will include new lines to allow paragraphs
+          **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>**
+          
       - layout: left
         title: PolyU SMART Lab 
         link: https://polyusmart.net/
@@ -96,33 +115,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
           
-          Selected research tasks:
-          - Python crawler on weibo/twitter
-          - Data mining, Data analysis
-          - Language Model Pre-train/Continue-train
-          - Recommendation System (Now)
-          
-      - layout: left
-        title: The Chinese University of Hong Kong
-        link: https://www.cintec.cuhk.edu.hk/seminars/
-        sub_title: Honorary Junior Research Assistant 
-        caption: Summer 2021
-        quote: >
-        
-        description: | # this will include new lines to allow paragraphs
-          **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>**
-          
-      - layout: left
-        title: Undergraduate Research and Innovation Scheme (URIS), PolyU
-        link: https://www.polyu.edu.hk/ous/URIS/
-        caption: 1/9/2021 to 1/1/2023
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-          ***Individual Project with funding HK$30,000***
-          
-          **Title: Doctor recommendation in online medical forums**
-          
-          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
+          - Python crawler on weibo (Ten million+ posts, Be acknowledged in a ACL2021 long-paper)
+          - A long paper (I am the second author) has been submitted to EMNLP2021.
+          - I am participating in two projects now:
+               one is about recommendation system and the other is about Cantonese NLU
           
   - title: Publications
     layout: text
