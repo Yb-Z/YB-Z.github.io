@@ -13,7 +13,7 @@ title: |
 email: yubo.zhang@connect.polyu.hk
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -56,7 +56,12 @@ about_content: | # this will include new lines to allow paragraphs
   
   My current research interest is mainly about <mark>NLP(RecSys, Dialog System, XAI...)</mark> and <mark>Fintech</mark>.
   
-  This is the website for my blog: <a href="https://blogs.yubo.space">Zhang Yubo's blogs</a> (Still repairing...)
+  <a href="https://yubo.space/blog">My Blog</a>
+  [My Blog](https://yubo.space/blog)
+  
+  **News**
+  
+  
 
 content:
   - title: Education # Title for the section
