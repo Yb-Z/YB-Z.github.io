@@ -120,9 +120,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
           
-          - Python crawler on weibo (Ten million+ posts, Be acknowledged in a ACL2021 long-paper)
-          - A long paper (I am the second author) has been submitted to EMNLP2021.
-          - I am participating in two projects now:
+          - I am participating in two projects:
                one is about recommendation system and the other is about Cantonese NLU
           
   - title: Publications
