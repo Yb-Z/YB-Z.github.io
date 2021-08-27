@@ -46,7 +46,7 @@ github_username:  Yb-Z
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/head.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a> (COMP), 
@@ -56,10 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   My current research interest is mainly about <mark>NLP(RecSys, Dialog System, XAI...)</mark> and <mark>Fintech</mark>.
   
-  <a href="https://yubo.space/blog">My Blog</a>
-  [My Blog](https://yubo.space/blog)
+  [*My Blog*](https://yubo.space/blog)
   
-  **News**
+  ***News***
+  - My first paper (second author) is accepted in EMNLP2021 (long paper, main conference). Thanks for all the help!
   
   
 
@@ -129,9 +129,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Submitted / In preparation:**
+      - 
+      **Accepted**  
       - Yuji Zhang, ***Yubo Zhang***, Chunpu Xu, Jing Li, Ziyan Jiang and Baolin Peng, \#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention
-        （EMNLP2021）
-        
+       （EMNLP2021）
+       
   - title: Society Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
