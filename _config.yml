@@ -123,11 +123,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       
       **Accepted**  
-      - Xiaoxin Lu\*, ***Yubo Zhang***\*, Jing Li, Shi Zong (\*Equal Contribution) \\
-        Doctor Recommendation in Online Health Forums via Expertise Learning \\
+      - Xiaoxin Lu\*, ***Yubo Zhang***\*, Jing Li, Shi Zong (\*Equal Contribution) \
+        Doctor Recommendation in Online Health Forums via Expertise Learning \
         ACL2022 Main Conference
  
-      - Yuji Zhang, ***Yubo Zhang***, Chunpu Xu, Jing Li, Ziyan Jiang and Baolin Peng 
+      - Yuji Zhang, ***Yubo Zhang***, Chunpu Xu, Jing Li, Ziyan Jiang and Baolin Peng \
         <a href="https://aclanthology.org/2021.emnlp-main.616/">\#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention</a> 
         <br>
         EMNLP2021 Main Conference
