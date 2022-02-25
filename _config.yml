@@ -54,11 +54,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am also an undergraduate research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a> at the <a href="https://polyusmart.net/">PolyU SMART Lab</a>.
   
-  My current research interest is mainly about <mark>NLP(RecSys, Dialog System, XAI...)</mark> and <mark>Fintech</mark>.
-  
-  [*My Blog*](https://yubo.space/blog)
-  
+  My current research interest is mainly about <mark>NLP</mark> and <mark>ML</mark>.
+
   ***News***
+  - My second paper (co-first author) is accepted in ACL2022 (long paper, main conference). Thanks for all the help!
   - My first paper (second author) is accepted in EMNLP2021 (long paper, main conference). Thanks for all the help!
   
   
@@ -75,16 +74,23 @@ content:
           > BSc (HONS) Financial Technology & Artificial Intelligence
           
           > Minor In Applied Mathematics
-          
-      - layout: left
-        title: Seoul National University
-        caption: Nominated for 2022 Sem2-Exchange to Seoul National University
-        description: | # this will include new lines to allow paragraphs
        
         
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: PolyU SMART Lab 
+        link: https://polyusmart.net/
+        sub_title: Undergraduate Research Student
+        caption: Summer 2020 - Present
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
+          
+          Focusing on doctor recommendation on medical forums.
+      
       - layout: left
         title: PolyU - Undergraduate Research and Innovation Scheme (URIS)
         link: https://www.polyu.edu.hk/ous/URIS/
@@ -110,29 +116,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>**
           
-      - layout: left
-        title: PolyU SMART Lab 
-        link: https://polyusmart.net/
-        sub_title: Undergraduate Research Student
-        caption: Summer 2020 - Present
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
-          
-          - I am participating in two projects:
-               one is about recommendation system and the other is about Cantonese NLU
+          Topics: XAI, Cantonese Chatbot, Dialogue System
           
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-    
-      **Submitted / In preparation:**
-      - 
       
       **Accepted**  
-      - Yuji Zhang, ***Yubo Zhang***, Chunpu Xu, Jing Li, Ziyan Jiang and Baolin Peng, \#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention
-       （EMNLP2021）
+      - Xiaoxin Lu\*, ***Yubo Zhang***\*, Jing Li, Shi Zong (Equal Contribution)
+        Doctor Recommendation in Online Health Forums via Expertise Learning
+        (ACL2022 Main Conference)
+ 
+      - Yuji Zhang, ***Yubo Zhang***, Chunpu Xu, Jing Li, Ziyan Jiang and Baolin Peng, 
+        \#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention
+       （EMNLP2021 Main Conference）
        
   - title: Society Experience
     layout: text
@@ -146,9 +143,8 @@ content:
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <a href="#">&#128147; My Girlfriend, Pan Yalu &#128147;</a>
-      
-      <p>We will organize and update more blogs about our interests as soon as possible~ &#128525;</p>      
+      <a href="#"> My Girlfriend, Pan Yalu Lucy </a>
+
       
 
 # Footer
