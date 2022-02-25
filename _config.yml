@@ -123,7 +123,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       
       **Accepted**  
-      - Xiaoxin Lu\*, ***Yubo Zhang***\*, Jing Li, Shi Zong (Equal Contribution) \\
+      - Xiaoxin Lu\*, ***Yubo Zhang***\*, Jing Li, Shi Zong (\*Equal Contribution) \\
         Doctor Recommendation in Online Health Forums via Expertise Learning \\
         (ACL2022 Main Conference)
  
