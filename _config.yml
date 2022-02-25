@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Zhang Yubo
+name: Yubo Zhang (张雨博 in Chinese)
 title: |
   Undergraduate Student @ COMP, POLYU   
       
@@ -22,7 +22,7 @@ github_username:  Yb-Z
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: jameswgrant
+# instagram_username: jameswgrant
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -49,7 +49,7 @@ github_username:  Yb-Z
 about_title: About Me
 about_profile_image: images/head.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Zhang Yubo, an undergraduate student studing Computer Science at <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a> (COMP), 
+  Hi, I'm Zhang Yubo, an undergraduate student (year 3) majoring Fintech and AI and minoring Applied Mathematics at <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a> (COMP), 
   <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> (PolyU)
   
   I am also an undergraduate research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a> at the <a href="https://polyusmart.net/">PolyU SMART Lab</a>.
