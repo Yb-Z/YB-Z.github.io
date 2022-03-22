@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Yubo Zhang, an undergraduate student (year 3) at <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a> (COMP), 
   <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> (PolyU)
   
-  I am also an undergraduate research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a> at the <a href="https://polyusmart.net/">PolyU SMART Lab</a>.
+  I am also an undergraduate research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Jing Li</a> at the <a href="https://polyusmart.net/">PolyU SMART Group</a>.
   
   My current research interest is mainly about <mark>NLP</mark> and <mark>ML</mark>.
 
@@ -86,7 +86,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
+          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Jing Li</a>**
           
           Focusing on doctor recommendation on medical forums.
       
@@ -100,7 +100,7 @@ content:
 
           **Title: Doctor recommendation in online medical forums**
 
-          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Li Jing</a>**
+          **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Jing Li</a>**
 
       - layout: left
         title: The Chinese University of Hong Kong
@@ -113,7 +113,7 @@ content:
         quote: >
         
         description: | # this will include new lines to allow paragraphs
-          **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor WONG Kam Fai</a>**
+          **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor Kam-Fai Wong</a>**
           
           Topics: XAI, Cantonese Chatbot, Dialogue System
           
@@ -143,7 +143,7 @@ content:
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <a href="#"> My Girlfriend, Pan Yalu Lucy </a>
+      <a href="https://www.linkedin.com/in/pan-yalu-06a767229"> My Girlfriend, Lucy Yalu Pan</a>
 
       
 
