@@ -57,6 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   My current research interest is mainly about <mark>NLP</mark> and <mark>ML</mark>.
 
   ***News***
+  - I am now doing research internship at <a href="https://www.microsoft.com/en-us/research/group/natural-language-computing/">MSRA NLC Group</a>
   - My second paper (co-first author) is accepted in ACL2022 (long paper, main conference). Thanks for all the help!
   - My first paper (second author) is accepted in EMNLP2021 (long paper, main conference). Thanks for all the help!
   
@@ -89,6 +90,17 @@ content:
           **Supervisor: <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Jing Li</a>**
           
           Focusing on doctor recommendation on medical forums.
+          
+      - layout: left
+        title: MSRA, Natural Language Computing (NLC) group
+        link: https://www.microsoft.com/en-us/research/group/natural-language-computing/
+        sub_title: Research Internship
+        caption: Summer 2022
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          **Mentor: <a href="https://xingxingzhang.github.io/">Dr. Xingxing Zhang</a>**
+          
+          Focusing on pretraining and summarization.     
       
       - layout: left
         title: PolyU - Undergraduate Research and Innovation Scheme (URIS)
