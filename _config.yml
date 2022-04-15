@@ -13,7 +13,7 @@ title: |
 email: yubo.zhang@connect.polyu.hk
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: facespics
@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Yubo Zhang, an undergraduate student (year 3) at <a href="https://www.comp.polyu.edu.hk/">Department of Computing</a> (COMP), 
   <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> (PolyU)
   
-  I am also an undergraduate research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Jing Li</a> at the <a href="https://polyusmart.net/">PolyU SMART Group</a>.
+  I'm also an undergraduate research student under supervision of <a href="http://www4.comp.polyu.edu.hk/~jing1li/">Dr. Jing Li</a> at <a href="https://polyusmart.net/">PolyU SMART Group</a>.
   
-  Currently, I am now doing research internship at <a href="https://www.microsoft.com/en-us/research/group/natural-language-computing/">MSRA NLC Group</a>
+  Currently, I'm doing research internship at <a href="https://www.microsoft.com/en-us/research/group/natural-language-computing/">MSRA NLC Group</a>
   
   My current research interest is mainly about <mark>NLP</mark> and <mark>ML</mark>.
 
@@ -127,7 +127,7 @@ content:
         quote: >
         
         description: | # this will include new lines to allow paragraphs
-          **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Professor Kam-Fai Wong</a>**
+          **Supervisor: <a href="http://www.cintec.cuhk.edu.hk/kfwong/">Prof. Kam-Fai Wong</a>**
           
           Topics: XAI, Cantonese Chatbot, Dialogue System
           
